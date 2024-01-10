@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.nav-link {
+  font-family: "Inter", sans-serif;
+}
+.btn-theme {
+  background: linear-gradient(180deg, #1db699 0%, #2db880 100%),
+    linear-gradient(0deg, #ffffff, #ffffff);
+}
+.bg-card1 {
+  background: #effaf8;
+}
+.bg-card2 {
+  background: #fef2f4;
+}
+.bg-card3 {
+  background: #eefbf5;
+}
+.bg-card4 {
+  background: #fffaef;
+}
+.bg-card5 {
+  background: #f7f3ff;
+}
+.bg-card6 {
+  background: #fff0f8;
+}
+.bg-card7 {
+  background: #f3f4fe;
+}
+.bg-card8 {
+  background: #fff7ef;
+}
+.bg-card9 {
+  background: #f1fbff;
+}
+.text-theme {
+  color: #2db880;
+}
+.bg-theme {
+  background: #1db699;
+}
+.bg-gray {
+  background: #f3f3f3;
+}
+.bg-header {
+  height: 75vh;
+  background: linear-gradient(
+      89.93deg,
+      #2db880 0.05%,
+      rgba(45, 184, 128, 0.13) 70.56%
+    ),
+    url(../images/header.png);
+  background-size: cover;
+}
